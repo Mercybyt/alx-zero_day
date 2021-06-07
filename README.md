@@ -1,1 +1,1 @@
-### This file is mandatory in all alx schools projects.
+### This a mandatory alx school projects.
